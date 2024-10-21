@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NWGKGIT
 - 👀 I’m interested in full stack development, data analysis, and cybersecurity.
 - 🌱 I’m currently learning about web development technologies, including:
-    Python: Django
-    JavaScript: Node.js, Express.js, React
-    Databases: PostgreSQL, MongoDB
-    DevOps: Docker, Git
+    - Python: Django
+    - JavaScript: Node.js, Express.js, React
+    - Databases: PostgreSQL, MongoDB
+    - DevOps: Docker, Git
 - 📫 How to reach me : telegram -@NWGKW
 
 <!---
