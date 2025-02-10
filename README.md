@@ -1,6 +1,6 @@
-# Nahom w. Gebremichael - Full-Stack Developer & Aspiring Business Analyst
+# Nahom W. Gebremichael - Full-Stack Developer & Aspiring Business Analyst
 
-Welcome to my GitHub! I’m Nahom w. Gebremichael, a passionate developer with experience in web scraping, automation, and business analysis. I specialize in creating data-driven solutions, web applications, and exploring emerging trends in the tech and cybersecurity fields.
+Welcome to my GitHub! I’m Nahom W. Gebremichael, a passionate developer with experience in web scraping, automation, and business analysis. I specialize in creating data-driven solutions, web applications, and exploring emerging trends in the tech and cybersecurity fields.
 
 ## Skills
 - Web Design & Development
