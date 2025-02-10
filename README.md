@@ -17,8 +17,8 @@ Here, you’ll find a variety of projects I’ve worked on, including personal c
 - All other projects are under construction at the moment.
 ## How to Reach Me
 - 📧 Email: [nahomwww7@gmail.com](mailto:nahomwww7@gmail.com)
-- 🌐 Portfolio: [nahomw.me](https://nahomw.me)
 - 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nahomwg)
 - 🔗 Twitter: [Follow me on Twitter](https://x.com/NWGKWW)
+- 🌐 Portfolio: [nahomw.me](https://nahomw.me)
 
 Feel free to reach out for collaboration, project inquiries, or just to connect!
