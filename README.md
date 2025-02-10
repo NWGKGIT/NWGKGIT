@@ -14,7 +14,7 @@ Welcome to my GitHub! I’m Nahom w. Gebremichael, a passionate developer with e
 Here, you’ll find a variety of projects I’ve worked on, including personal cybersecurity projects, web scraping solutions, and automation scripts.
 
 - [Pharmacy Inventory Management System](https://github.com/NWGKGIT/PHARMA): Mobile App for managing pharmacy inventory.
-- All other projects are either construction at the moment.
+- All other projects are under construction at the moment.
 ## How to Reach Me
 - 📧 Email: [nahom.wg.05@gmail.com](mailto:@gmail.com)
 - 🌐 Portfolio: [nahomw.me](https://nahomw.me)
