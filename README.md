@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @NWGKGIT
-- 👀 I’m interested in full stack development, data analysis, and cybersecurity.
-- 🌱 I’m currently learning about web development technologies, including:
-    - Python: Django
-    - JavaScript: Node.js, Express.js, React
-    - Databases: PostgreSQL, MongoDB
-    - DevOps: Docker, Git
-- 📫 How to reach me : telegram -@NWGKW
+# Nahom w. Gebremichael - Full-Stack Developer & Aspiring Business Analyst
 
-<!---
-NWGKGIT/NWGKGIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I’m Nahom w. Gebremichael, a passionate developer with experience in web scraping, automation, and business analysis. I specialize in creating data-driven solutions, web applications, and exploring emerging trends in the tech and cybersecurity fields.
+
+## Skills
+- Web Design & Development
+- UI/UX Design
+- React | JavaScript | Front-End Development
+- Data Automation & Web Data Collection
+- Cybersecurity Tools & Network Security Principles
+- Business Analysis & Process Optimization
+
+## Projects
+Here, you’ll find a variety of projects I’ve worked on, including personal cybersecurity projects, web scraping solutions, and automation scripts.
+
+- [Pharmacy Inventory Management System](https://github.com/NWGKGIT/PHARMA): Mobile App for managing pharmacy inventory.
+- All other projects are either construction at the moment.
+## How to Reach Me
+- 📧 Email: [nahom.wg.05@gmail.com](mailto:@gmail.com)
+- 🌐 Portfolio: [nahomw.me](https://nahomw.me)
+- 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nahomwg)
+- 🔗 Twitter: [Follow me on Twitter](https://x.com/NWGKWW)
+
+Feel free to reach out for collaboration, project inquiries, or just to connect!
