@@ -21,8 +21,6 @@ Here, you’ll find a variety of projects I’ve worked on, including personal c
 
 - [Pharmacy Inventory Management System](https://github.com/NWGKGIT/PHARMA): Mobile App for managing pharmacy inventory.
 - All other projects are under construction at the moment.
-## How to Reach Me
-- 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/nahomwg)
-- 🔗 Twitter: [Follow me on Twitter](https://x.com/NWGKWW)
+
 
 Feel free to reach out for collaboration, project inquiries, or just to connect!
