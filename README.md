@@ -1,4 +1,4 @@
-# Nahom W. Gebremichael - Web Developer & Data Automation Enthusiast
+# Nahom W.G. Michael - Web Developer & Data Automation Enthusiast
 
 Welcome to my GitHub! I’m Nahom W. Gebremichael, a passionate web developer focused on building efficient web solutions and automating data processes. I do projects in web development, data scraping, and automation.
 ## Skills & Tech Stack
