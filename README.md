@@ -18,7 +18,7 @@ Here are the technologies I work with:
 
 ## Projects
 Here, you’ll find a variety of projects I’ve worked on, including personal cybersecurity projects, web scraping solutions, and automation scripts.
-
+- [B2C Django REST Framework e-commerce API](https://github.com/NWGKGIT/drf-commerce-engine): This is a full-featured e-commerce backend API built with Django REST Framework. 
 - [Pharmacy Inventory Management System](https://github.com/NWGKGIT/PHARMA): Mobile App for managing pharmacy inventory.
 - All other projects are under construction at the moment.
 
