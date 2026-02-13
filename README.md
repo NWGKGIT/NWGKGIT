@@ -1,6 +1,7 @@
-# Nahom W.G. Michael - Web Developer 
+# Nahom W.G. Michael - Information Science Student
 
-Welcome to my GitHub! I’m Nahom W. Gebremichael, a passionate web developer focused on building efficient web solutions and automating data processes. I do projects in web development, data scraping, and automation.
+Welcome to my GitHub! I am an Information Science student with a deep interest in the intersection of **efficient data management** and **software engineering**. Currently, I am pivoting my focus toward mastering **Data Structures and Algorithms (DSA)** to build more optimized, scalable systems.
+
 ## Skills & Tech Stack
 Here are the technologies I work with:
 
