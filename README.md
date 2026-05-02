@@ -1,6 +1,6 @@
-# Nahom W.G. Gebremichael - Information Science Student
+# Nahom W.G. Michael - Information Systems Student
 
-Welcome to my GitHub! I am an Information Science student with a strong interest in building **scalable backend systems**, **efficient data pipelines**, and **automation tools**.
+Welcome to my GitHub! I am an Information Systems student with a strong interest in building **scalable backend systems**, **efficient data pipelines**, and **automation tools**.
 
 Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** and **system design**, with an emphasis on writing performant, production-ready code.
 
@@ -10,6 +10,7 @@ Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** a
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
@@ -46,6 +47,8 @@ Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** a
 
 Here, you’ll find a range of projects focused on **backend engineering, automation, and data-driven systems**:
 
+- [VoidGram](https://github.com/NWGKGIT/VoidGram)
+  VoidGram is a keyboard-driven, terminal-based Telegram client designed for a focused and distraction-free messaging experience.
 - [B2C Django REST Framework E-commerce API](https://github.com/NWGKGIT/drf-commerce-engine)  
   Scalable backend with distributed task queues (Celery, RabbitMQ, Redis), payment integration, and microservice-oriented design.
 
