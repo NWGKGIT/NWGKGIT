@@ -1,6 +1,6 @@
-# Nahom W.G. Michael - Information Systems Student
+# Nahom W.G. Michael - Software Developer
 
-Welcome to my GitHub! I am an Information Systems student with a strong interest in building **scalable backend systems**, **efficient data pipelines**, and **automation tools**.
+Welcome to my GitHub! I am a Software Developer with a strong interest in building **scalable backend systems**, **efficient data pipelines**, and **automation tools**.
 
 Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** and **system design**, with an emphasis on writing performant, production-ready code.
 
@@ -13,20 +13,23 @@ Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** a
 ![TypeScript](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
 ### Backend & Frameworks
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?logo=fastapi&logoColor=white)
 
 ### Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)
 
 ### Data, Automation & Scraping
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-green?logo=scrapy&logoColor=white)
+![Telethon](https://img.shields.io/badge/-Telethon-26A5E4?logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### DevOps & Systems
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -49,6 +52,7 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
 
 - [VoidGram](https://github.com/NWGKGIT/VoidGram)
   VoidGram is a keyboard-driven, terminal-based Telegram client designed for a focused and distraction-free messaging experience.
+  
 - [B2C Django REST Framework E-commerce API](https://github.com/NWGKGIT/drf-commerce-engine)  
   Scalable backend with distributed task queues (Celery, RabbitMQ, Redis), payment integration, and microservice-oriented design.
 
