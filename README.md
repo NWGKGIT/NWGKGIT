@@ -61,7 +61,8 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
 
 - [LeetCode Animations](https://github.com/NWGKGIT/leet-animations/tree/main)  
   A Next.js app showcasing animated LeetCode problem cards and interactive problem details.
-
+- [In-Memory DataBase](https://github.com/NWGKGIT/in-memory-db)
+  A very simple, minimal in-memory database implemented in C++.
 - More projects are currently in development...
 
 ---
