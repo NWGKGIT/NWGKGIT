@@ -54,7 +54,7 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
   VoidGram is a keyboard-driven, terminal-based Telegram client designed for a focused and distraction-free messaging experience.
   
 - [B2C Django REST Framework E-commerce API](https://github.com/NWGKGIT/drf-commerce-engine)  
-  Scalable backend with distributed task queues (Celery, RabbitMQ, Redis), payment integration, and microservice-oriented design.
+  Scalable backend with distributed task queues (Celery, Redis), payment integration, and microservice-oriented design.
 
 - [Custom POSIX Shell](https://github.com/NWGKGIT/CoreShell)  
   Command-line interpreter built in Python featuring process handling, PATH resolution, and I/O redirection.
