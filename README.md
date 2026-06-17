@@ -42,7 +42,8 @@ Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** a
 - REST APIs, Microservices Architecture  
 - Async Programming (`asyncio`)  
 - Web Scraping & OSINT  
-- Distributed Task Queues  
+- Distributed Task Queues
+- Cryptography and web 3
 - API Documentation (OpenAPI / Swagger)
 
 ---
@@ -83,7 +84,8 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
 
 - Backend Engineering & System Design  
 - Algorithmic Problem Solving 
-- Cybersecurity & OSINT  
+- Cybersecurity & OSINT
+- Cryptography and Web 3
 - Automation & Data Extraction  
 
 ---
