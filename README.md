@@ -14,6 +14,7 @@ Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00599C?logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
 ### Backend & Frameworks
