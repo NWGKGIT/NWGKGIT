@@ -59,6 +59,9 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
 - [drf-commerce-engine](https://github.com/NWGKGIT/drf-commerce-engine)
   A comprehensive, B2C Django REST Framework e-commerce API with full payment integration, inventory management, and asynchronous task processing.
 
+- [git-dr-mirror](https://github.com/NWGKGIT/git-dr-mirror)
+  One-way disaster-recovery mirror of your GitHub repositories to GitLab.
+  
 - [git-identity-manager](https://github.com/NWGKGIT/git-identity-manager)
   Switch your Git name, email, and SSH key per repository with a single command.
   
