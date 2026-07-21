@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I am a Software Developer with a strong interest in building **scalable backend systems**, **efficient data pipelines**, and **automation tools**.
 
-Currently, I’m focused on mastering **Data Structures and Algorithms (DSA)** and **system design**, with an emphasis on writing performant, production-ready code.
-
 ---
 
 ## Skills & Tech Stack
