@@ -51,9 +51,6 @@ Welcome to my GitHub! I am a Software Developer with a strong interest in buildi
 
 Here, you’ll find a range of projects focused on **backend engineering, automation, and data-driven systems**:
 
-- [h2o](https://github.com/NWGKGIT/h2o)
-  A CLI tool that generates OpenAPI 3.0 specifications from live network traffic or HAR files.
-
 - [drf-commerce-engine](https://github.com/NWGKGIT/drf-commerce-engine)
   A comprehensive, B2C Django REST Framework e-commerce API with full payment integration, inventory management, and asynchronous task processing.
 
