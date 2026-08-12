@@ -65,15 +65,7 @@ Here, you’ll find a range of projects focused on **backend engineering, automa
 
 - [VoidGram](https://github.com/NWGKGIT/VoidGram)
   VoidGram is a keyboard-driven, terminal-based Telegram client designed for a focused and distraction-free messaging experience.
-  
-- [Custom POSIX Shell](https://github.com/NWGKGIT/CoreShell)  
-  Command-line interpreter built in Python featuring process handling, PATH resolution, and I/O redirection.
 
-- [LeetCode Animations](https://github.com/NWGKGIT/leet-animations/tree/main)  
-  A Next.js app showcasing animated LeetCode problem cards and interactive problem details.
-
-- [In-Memory DataBase](https://github.com/NWGKGIT/in-memory-db)
-  A very simple, minimal in-memory database implemented in C++.
 
 - More projects are currently in development...
 
